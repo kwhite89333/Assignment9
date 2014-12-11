@@ -1,0 +1,70 @@
+{
+    "SONGS":[
+        {
+            "artistName" : "Bruno Mars",
+            "songTitle" : "Locked Out of Heaven",
+            "weeksOnTop" : "4"
+        },
+        {
+            "artistName" : "Macklemore",
+            "songTitle" : "Thrift Shop",
+            "weeksOnTop" : "4"
+        },
+        {
+            "artistName" : "Baauer",
+            "songTitle" : "Harlem Shake",
+            "weeksOnTop" : "5"
+        },
+        {
+            "artistName" : "Macklemore",
+            "songTitle" : "Thrift Shop",
+            "weeksOnTop" : "2"
+        },
+        {
+            "artistName" : "Bruno Mars",
+            "songTitle" : "When I Was Your Man",
+            "weeksOnTop" : "2"
+        },
+        {
+            "artistName" : "Pink",
+            "songTitle" : "Just Give Me a Reason",
+            "weeksOnTop" : "3"
+        },
+        {
+            "artistName" : "Macklemore",
+            "songTitle" : "Can't Hold Us",
+            "weeksOnTop" : "5"
+        },
+        {
+            "artistName" : "Robin Thicke",
+            "songTitle" : "Blurred Lines",
+            "weeksOnTop" : "12"
+        },
+        {
+            "artistName" : "Katy Perry",
+            "songTitle" : "Roar",
+            "weeksOnTop" : "2"
+        },
+        {
+            "artistName" : "Miley Cyrus",
+            "songTitle" : "Wrecking Ball",
+            "weeksOnTop" : "2"
+        },
+        {
+            "artistName" : "Lorde",
+            "songTitle" : "Royals",
+            "weeksOnTop" : "9"
+        },
+        {
+            "artistName" : "Miley Cyrus",
+            "songTitle" : "Wrecking Ball",
+            "weeksOnTop" : "1"
+        },
+        {
+            "artistName" : "Eminem",
+            "songTitle" : "The Monster",
+            "weeksOnTop" : "2"
+        }
+        
+    ]
+}
